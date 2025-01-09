@@ -73,7 +73,7 @@
   },
   "Chronoplast": {
     "connects_to": [],
-    "requires": []
+    "requires": "|Phasing Through Gates| AND |Constricting| AND |Firing Projectiles| AND |The Soul Reaver|"
   },
   "Silenced Cathedral Interior": {
     "connects_to": [],
