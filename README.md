@@ -6,7 +6,9 @@ If you're unfamiliar with Archipelago Manuals, here's the Discord server's FAQ f
 
 ## Setup
 
-I'll assume you can figure out Archipelago generation, local hosting, and the Manual client from the Discord FAQs.
+Go to [this repo's Releases page](https://github.com/Ixrec/SoulReaver1ArchipelagoManual/releases) and download the .apworld and .yaml files from the latest release. 
+
+I'll assume you can figure out Archipelago local generation, local hosting, and the Manual client from the Discord FAQs linked above.
 
 The part unique to Soul Reaver is how you'll manually apply the items. In this game, that means cheat codes.
 On PC, the cheat codes are simply sequences of numbers that you type on the pause screen, and you'll hear a noise when the game recognizes a code.
