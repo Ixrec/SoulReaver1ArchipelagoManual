@@ -41,7 +41,8 @@
     "connects_to": [
       "Raziel's Stronghold",
       "Human Citadel",
-      "Ruined City"
+      "Ruined City",
+      "Oracle's Cave"
     ],
     "requires": []
   },
@@ -60,9 +61,7 @@
     "requires": []
   },
   "Ruined City": {
-    "connects_to": [
-      "Oracle's Cave"
-    ],
+    "connects_to": [],
     "requires": "|Phasing Through Gates| AND |Scaling Walls|"
   },
   "Oracle's Cave": {
