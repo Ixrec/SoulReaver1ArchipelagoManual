@@ -2,91 +2,91 @@
   {
     "count": 1,
     "name": "Phasing Through Gates",
-    "category": [],
+    "category": ["Earned Abilities"],
     "progression": true
   },
   {
     "count": 1,
     "name": "Scaling Walls",
-    "category": [],
+    "category": ["Earned Abilities"],
     "progression": true
   },
   {
     "count": 1,
     "name": "Firing Projectiles",
-    "category": [],
+    "category": ["Earned Abilities"],
     "progression": true
   },
   {
     "count": 1,
     "name": "Swimming",
-    "category": [],
+    "category": ["Earned Abilities"],
     "progression": true
   },
   {
     "count": 1,
     "name": "Constricting",
-    "category": [],
+    "category": ["Earned Abilities"],
     "progression": true
   },
   {
     "count": 1,
     "name": "The Soul Reaver",
-    "category": [],
+    "category": ["Earned Abilities"],
     "progression": true
   },
   {
     "count": 1,
     "name": "Fire Reaver",
-    "category": [],
+    "category": ["Earned Abilities"],
     "useful": true
   },
   {
     "count": 1,
     "name": "Force Glyph",
-    "category": [],
+    "category": ["Glyphs"],
     "useful": true
   },
   {
     "count": 1,
     "name": "Stone Glyph",
-    "category": [],
+    "category": ["Glyphs"],
     "useful": true
   },
   {
     "count": 1,
     "name": "Sound Glyph",
-    "category": [],
+    "category": ["Glyphs"],
     "useful": true
   },
   {
     "count": 1,
     "name": "Water Glyph",
-    "category": [],
+    "category": ["Glyphs"],
     "useful": true
   },
   {
     "count": 1,
     "name": "Fire Glyph",
-    "category": [],
+    "category": ["Glyphs"],
     "useful": true
   },
   {
     "count": 1,
     "name": "Sunlight Glyph",
-    "category": [],
+    "category": ["Glyphs"],
     "useful": true
   },
   {
     "count": "15",
     "name": "Health Artifact",
-    "category": [],
+    "category": ["Upgrade Artifacts"],
     "useful": true
   },
   {
     "count": "5",
     "name": " Eldritch Energy Artifact",
-    "category": [],
+    "category": ["Upgrade Artifacts"],
     "useful": true
   }
 ]
