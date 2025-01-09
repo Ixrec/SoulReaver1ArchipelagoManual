@@ -1,207 +1,207 @@
 [
   {
     "region": "Underworld Exit",
-    "name": "Underworld Exit Health Artifact",
-    "category": [],
+    "name": "Switching Realms Tutorial Health Artifact",
+    "category": ["Underworld Exit"],
     "requires": "|Scaling Walls|"
   },
   {
     "name": "Sanctuary Entrance Health Artifact ",
     "region": "Sanctuary",
-    "category": [],
+    "category": ["Sanctuary"],
     "requires": "|Phasing Through Gates|"
   },
   {
     "name": "Combat Tutorial Room Health Artifact",
     "region": "Underworld Exit",
-    "category": [],
+    "category": ["Underworld Exit"],
     "requires": "|Phasing Through Gates|"
   },
   {
     "name": "Raziel's Stronghold Entrance Health Artifact",
     "region": "Raziel's Stronghold",
-    "category": [],
+    "category": ["Raziel's Stronghold"],
     "requires": "|Phasing Through Gates|"
   },
   {
     "name": "Raziel's Stronghold Drawbridge Health Artifact",
     "region": "Raziel's Stronghold",
-    "category": [],
+    "category": ["Raziel's Stronghold"],
     "requires": "|Constricting|"
   },
   {
     "name": "Raziel's Stronghold Drawbridge Energy Artifact",
     "region": "Raziel's Stronghold",
-    "category": [],
+    "category": ["Raziel's Stronghold"],
     "requires": "|Constricting|"
   },
   {
     "region": "Necropolis",
     "name": "Necropolis Underwater Health Artifact",
-    "category": [],
+    "category": ["Necropolis"],
     "requires": "|Phasing Through Gates|"
   },
   {
     "name": "Necropolis Ledge Health Artifact",
     "region": "Necropolis",
-    "category": [],
+    "category": ["Necropolis"],
     "requires": "|Scaling Walls|"
   },
   {
     "name": "Force Glyph Altar Puzzle",
     "region": "Necropolis",
-    "category": [],
+    "category": ["Necropolis"],
     "requires": "|Phasing Through Gates|"
   },
   {
     "name": "Fire Glyph Altar Puzzle",
     "region": "Raziel's Stronghold",
-    "category": [],
+    "category": ["Raziel's Stronghold"],
     "requires": "|Swimming| AND |Scaling Walls|"
   },
   {
     "name": "Stone Glyph Altar Puzzle",
     "region": "Stone Glyph",
-    "category": [],
+    "category": ["Stone Glyph / Nupraptor's Retreat"],
     "requires": "|Scaling Walls|"
   },
   {
     "name": "Stone Glyph Health Artifact",
     "region": "Stone Glyph",
-    "category": [],
+    "category": ["Stone Glyph / Nupraptor's Retreat"],
     "requires": "|Scaling Walls| AND |Firing Projectiles|"
   },
   {
     "name": "Sanctuary Kain Fight",
     "region": "Sanctuary",
-    "category": [],
+    "category": ["Sanctuary"],
     "requires": []
   },
   {
     "name": "Necropolis Melchiah Fight",
     "region": "Necropolis",
-    "category": [],
+    "category": ["Necropolis"],
     "requires": []
   },
   {
     "name": "Silenced Cathedral Moat Ledge Health Artifact",
     "region": "Silenced Cathedral Moat",
-    "category": [],
+    "category": ["Silenced Cathedral"],
     "requires": "|Swimming| AND |Scaling Walls|"
   },
   {
     "name": "Silenced Cathedral Bonus Block Puzzle Health Artifact",
     "region": "Silenced Cathedral Interior",
-    "category": [],
+    "category": ["Silenced Cathedral"],
     "requires": "|Phasing Through Gates|"
   },
   {
     "name": "Silenced Cathedral Vents Energy Artifact",
     "region": "Silenced Cathedral Interior",
-    "category": [],
+    "category": ["Silenced Cathedral"],
     "requires": "|Scaling Walls| AND |Firing Projectiles|"
   },
   {
     "name": "Silenced Cathedral Zephon Fight",
     "region": "Silenced Cathedral Interior",
-    "category": [],
+    "category": ["Silenced Cathedral"],
     "requires": "|Phasing Through Gates|"
   },
   {
     "name": "Sunlight Glyph Altar Puzzle",
     "region": "Sunlight Glyph",
-    "category": [],
+    "category": ["Sunlight Glyph"],
     "requires": []
   },
   {
     "name": "Serafan's Tomb Guardian Fight",
     "region": "Serafan's Tomb",
-    "category": [],
+    "category": ["Serafan's Tomb"],
     "requires": []
   },
   {
     "name": "Drowned Abbey Energy Artifact",
     "region": "Ship Near Drowned Abbey",
-    "category": [],
+    "category": ["Drowned Abbey"],
     "requires": "|Swimming|"
   },
   {
     "name": "Drowned Abbey Health Artifact",
     "region": "Drowned Abbey",
-    "category": [],
+    "category": ["Drowned Abbey"],
     "requires": "|Constricting|"
   },
   {
     "name": "Drowned Abbey Rahab Fight",
     "region": "Drowned Abbey",
-    "category": [],
+    "category": ["Drowned Abbey"],
     "requires": "|Phasing Through Gates| AND |Scaling Walls| AND |Firing Projectiles|"
   },
   {
     "name": "Human Citadel Upper Level Health Artifact",
     "region": "Human Citadel",
-    "category": [],
+    "category": ["Human Citadel"],
     "requires": "|Scaling Walls|"
   },
   {
     "name": "Human Citadel Upper Level Energy Artifact",
     "region": "Human Citadel",
-    "category": [],
+    "category": ["Human Citadel"],
     "requires": "|Scaling Walls|"
   },
   {
     "name": "Human Citadel Sewer Block Puzzle Health Artifact",
     "region": "Human Citadel",
-    "category": [],
+    "category": ["Human Citadel"],
     "requires": "|Phasing Through Gates|"
   },
   {
     "name": "Water Glyph Altar Puzzle",
     "region": "Human Citadel",
-    "category": [],
+    "category": ["Human Citadel"],
     "requires": "|Firing Projectiles| AND |Swimming|"
   },
   {
     "name": "Human Citadel Bridge After Water Glyph Health Artifact",
     "region": "Human Citadel",
-    "category": [],
+    "category": ["Human Citadel"],
     "requires": "|Firing Projectiles| AND |Swimming| AND |Scaling Walls|"
   },
   {
     "name": "Ruined City Dumah Fight",
     "region": "Ruined City",
-    "category": [],
+    "category": ["Ruined City"],
     "requires": []
   },
   {
     "name": "Ruined City Health Artifact",
     "region": "Ruined City",
-    "category": [],
+    "category": ["Ruined City"],
     "requires": "|Constricting|"
   },
   {
     "name": "Chronoplast Kain Fight",
     "region": "Chronoplast",
     "victory": true,
-    "category": [],
+    "category": ["Chronoplast"],
     "requires": []
   },
   {
     "name": "Drowned Abbey Fire Reaver Forge",
     "region": "Drowned Abbey",
-    "category": [],
+    "category": ["Drowned Abbey"],
     "requires": "|Swimming| AND |Firing Projectiles|"
   },
   {
     "name": "Sound Glyph Altar Puzzle",
     "region": "Silenced Cathedral Interior",
-    "category": [],
+    "category": ["Silenced Cathedral"],
     "requires": "|Firing Projectiles| AND |Scaling Walls| AND |Phasing Through Gates|"
   },
   {
     "name": "Necropolis Sarcophagus Energy Artifact",
     "region": "Necropolis",
-    "category": [],
+    "category": ["Necropolis"],
     "requires": "|The Soul Reaver|"
   }
 ]
