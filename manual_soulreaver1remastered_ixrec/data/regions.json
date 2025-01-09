@@ -1,0 +1,92 @@
+{
+  "Underworld Exit": {
+    "starting": true,
+    "connects_to": [
+      "Sanctuary",
+      "Silenced Cathedral Moat",
+      "Lake of the Dead"
+    ],
+    "requires": []
+  },
+  "Sanctuary": {
+    "connects_to": [
+      "Serafan's Tomb"
+    ],
+    "requires": "|Phasing Through Gates|"
+  },
+  "Raziel's Stronghold": {
+    "connects_to": [
+      "Necropolis"
+    ],
+    "requires": []
+  },
+  "Necropolis": {
+    "connects_to": [
+      "Stone Glyph"
+    ],
+    "requires": []
+  },
+  "Stone Glyph": {
+    "connects_to": [],
+    "requires": "|Scaling Walls| AND |Swimming|"
+  },
+  "Silenced Cathedral Moat": {
+    "connects_to": [
+      "Silenced Cathedral Interior",
+      "Sunlight Glyph"
+    ],
+    "requires": "|Phasing Through Gates|"
+  },
+  "Lake of the Dead": {
+    "connects_to": [
+      "Raziel's Stronghold",
+      "Human Citadel",
+      "Ruined City"
+    ],
+    "requires": []
+  },
+  "Serafan's Tomb": {
+    "connects_to": [
+      "Ship Near Drowned Abbey"
+    ],
+    "requires": "|Phasing Through Gates| AND |Scaling Walls|"
+  },
+  "Drowned Abbey": {
+    "connects_to": [],
+    "requires": "|Phasing Through Gates| AND |Scaling Walls| AND |Firing Projectiles|"
+  },
+  "Human Citadel": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Ruined City": {
+    "connects_to": [
+      "Oracle's Cave"
+    ],
+    "requires": "|Phasing Through Gates| AND |Scaling Walls|"
+  },
+  "Oracle's Cave": {
+    "connects_to": [
+      "Chronoplast"
+    ],
+    "requires": "|Constricting|"
+  },
+  "Chronoplast": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Silenced Cathedral Interior": {
+    "connects_to": [],
+    "requires": "|Phasing Through Gates| AND |The Soul Reaver|"
+  },
+  "Sunlight Glyph": {
+    "connects_to": [],
+    "requires": "|Phasing Through Gates| AND |Swimming|"
+  },
+  "Ship Near Drowned Abbey": {
+    "connects_to": [
+      "Drowned Abbey"
+    ],
+    "requires": []
+  }
+}

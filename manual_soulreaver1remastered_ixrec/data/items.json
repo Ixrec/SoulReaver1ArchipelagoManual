@@ -1,0 +1,92 @@
+[
+  {
+    "count": 1,
+    "name": "Phasing Through Gates",
+    "category": [],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Scaling Walls",
+    "category": [],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Firing Projectiles",
+    "category": [],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Swimming",
+    "category": [],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Constricting",
+    "category": [],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "The Soul Reaver",
+    "category": [],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Fire Reaver",
+    "category": [],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Force Glyph",
+    "category": [],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Stone Glyph",
+    "category": [],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Sound Glyph",
+    "category": [],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Water Glyph",
+    "category": [],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Fire Glyph",
+    "category": [],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Sunlight Glyph",
+    "category": [],
+    "useful": true
+  },
+  {
+    "count": "15",
+    "name": "Health Artifact",
+    "category": [],
+    "useful": true
+  },
+  {
+    "count": "5",
+    "name": " Eldritch Energy Artifact",
+    "category": [],
+    "useful": true
+  }
+]

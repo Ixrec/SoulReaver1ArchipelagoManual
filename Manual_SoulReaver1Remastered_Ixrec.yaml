@@ -1,0 +1,8 @@
+name: Ixrec
+description: Default template created by the Manual Builder tool
+
+game: Manual_SoulReaver1Remastered_Ixrec
+
+Manual_SoulReaver1Remastered_Ixrec:
+    progression_balancing: 50
+    accessibility: items
